@@ -1,0 +1,294 @@
+.bordure {
+  border-top: 15px solid rgb(22, 192, 216);
+  border-bottom: 15px solid rgb(22, 192, 216);
+  border-left: 15px solid rgb(22, 192, 216);
+  height: 1000px;
+  width: 740px;
+  padding-bottom: 22, 6772px;
+  padding-left: 22, 6772px;
+  padding-top: 22, 6772px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.droite {
+  border-right: 300px solid #efefef;
+  height: 1000px;
+  widht: 300px;
+  margin-right: 0px;
+  padding-right: 360px;
+  position: absolute;
+}
+
+.carrer {
+  left: 440px;
+  width: 300px;
+  height: 150px;
+  background: black;
+  position: absolute;
+}
+
+.prenom {
+  left: 45px;
+}
+
+.experience {
+  top: 45px;
+  left: 28px;
+  background-color: #d4f2ff;
+  height: 18px;
+  width: 75px;
+  position: absolute;
+}
+
+.cercle {
+  left: 25px;
+  top: 70px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: grey;
+  position: absolute;
+}
+
+.trait {
+  border-left: 1px solid grey;
+  height: 100px;
+  left: 2px;
+  position: absolute;
+}
+
+.vente {
+  top: 65px;
+  left: 40px;
+  position: absolute;
+}
+
+.cercle1 {
+  left: 25px;
+  top: 164px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait1 {
+  border-left: 1px solid gray;
+  height: 98px;
+  left: 2px;
+  position: absolute;
+}
+
+.animatrice {
+  top: 158px;
+  left: 40px;
+  position: absolute;
+}
+
+.cercle2 {
+  left: 25px;
+  top: 260px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait2 {
+  border-left: 1px solid gray;
+  height: 50px;
+  left: 2px;
+  position: absolute;
+}
+
+.stage {
+  top: 255px;
+  left: 40px;
+  position: absolute;
+}
+
+.diplome {
+  font-size: 14px;
+  top: 350px;
+  left: 28px;
+  background-color: #d4f2ff;
+  height: 18px;
+  width: 55px;
+  position: absolute;
+}
+
+.cercle4 {
+  left: 48px;
+  top: 401px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait4 {
+  border-left: 1px solid gray;
+  height: 60px;
+  left: 2px;
+  position: absolute;
+}
+
+.BAC {
+  top: 400px;
+  left: 65px;
+  position: absolute;
+  font-size: 8pt;
+}
+
+.college {
+  top: 455px;
+  left: 65px;
+  position: absolute;
+  font-size: 8pt;
+}
+
+.cercle5 {
+  left: 48px;
+  top: 460px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait5 {
+  border-left: 1px solid gray;
+  height: 75px;
+  left: 2px;
+  position: absolute;
+}
+
+
+.college1 {
+  top: 525px;
+  left: 65px;
+  position: absolute;
+  font-size: 8pt;
+}
+
+.cercle6 {
+  left: 48px;
+  top: 530px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait6 {
+  border-left: 1px solid gray;
+  height: 60px;
+  left: 2px;
+  position: absolute;
+}
+
+.college2 {
+  top: 580px;
+  left: 65px;
+  position: absolute;
+  font-size: 8pt;
+}
+
+.cercle7 {
+  left: 48px;
+  top: 586px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait7 {
+  border-left: 1px solid gray;
+  height: 130px;
+  left: 2px;
+  position: absolute;
+}
+
+.college3 {
+  top: 720px;
+  left: 65px;
+  position: absolute;
+  font-size: 8pt;
+}
+
+.cercle8 {
+  left: 48px;
+  top: 600px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait8 {
+  border-left: 1px solid gray;
+  height: 50px;
+  left: 2px;
+  position: absolute;
+}
+.college4 {
+  top: 670px;
+  left: 65px;
+  position: absolute;
+  font-size: 8pt;
+}
+
+.cercle9 {
+  left: 48px;
+  top: 675px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: gray;
+  position: absolute;
+}
+
+.trait9 {
+  border-left: 1px solid gray;
+  height: 40px;
+  left: 2px;
+  position: absolute;
+}
+.Compétence {
+  font-size: 14px;
+  top: 750px;
+  left: 45px;
+  background-color: #d4f2ff;
+  height: 13px;
+  width: 73px;
+  position: absolute;
+}
+.centre {
+  font-size: 14px;
+  top: 750px;
+  left: 185px;
+  background-color: #d4f2ff;
+  height: 13px;
+  width: 95px;
+  position: absolute;
+}
+.atouts {
+  font-weight: bold;
+}
+.langue {
+  font-weight: bold;
+}
+.déplacer {
+  position: absolute;
+  left: 25px;
+}                                            
+
